@@ -1,0 +1,7 @@
+[LAUNCHER]
+Exec=/usr/bin/nautilus
+Icon=home.png
+Terminal=false
+Name=Nautilus
+Generic=Nautilus
+Comment=Nautilus

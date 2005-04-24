@@ -1,0 +1,4 @@
+[LAUNCHER]
+Exec=/usr/bin/xterm
+Icon=terminal.png
+Terminal=false

@@ -1,0 +1,7 @@
+[LAUNCHER]
+Exec=/usr/bin/firefox
+Icon=browser.png
+Terminal=false
+Name=Firefox
+Generic=Mozilla Firefox Browser
+Comment=Browse Web Pages
